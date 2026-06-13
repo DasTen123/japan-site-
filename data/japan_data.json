@@ -1,0 +1,51 @@
+{
+  "restaurants": [
+    {"id": 1, "name": "Sukiyabashi Jiro", "type": "Sushi", "address": "Chuo City, Tokyo", "lat": 35.6722, "lng": 139.7649, "rating": 4.8, "price": "$$$$", "description": "World-famous sushi restaurant"},
+    {"id": 2, "name": "Ichiran Ramen", "type": "Ramen", "address": "Shibuya, Tokyo", "lat": 35.6627, "lng": 139.7016, "rating": 4.5, "price": "$", "description": "Popular tonkotsu ramen chain"},
+    {"id": 3, "name": "Kikunoi", "type": "Kaiseki", "address": "Higashiyama, Kyoto", "lat": 34.9948, "lng": 135.7851, "rating": 4.9, "price": "$$$$", "description": "Traditional multi-course dining"},
+    {"id": 4, "name": "Yakiniku M Nanba Honten", "type": "Yakiniku", "address": "Namba, Osaka", "lat": 34.6654, "lng": 135.5006, "rating": 4.6, "price": "$$$", "description": "Premium Japanese BBQ"},
+    {"id": 5, "name": "Tsuta", "type": "Ramen", "address": "Toshima, Tokyo", "lat": 35.7307, "lng": 139.7153, "rating": 4.4, "price": "$$", "description": "Michelin-starred ramen shop"},
+    {"id": 6, "name": "Tempura Kondo", "type": "Tempura", "address": "Ginza, Tokyo", "lat": 35.6717, "lng": 139.7640, "rating": 4.7, "price": "$$$", "description": "Exquisite tempura experience"}
+  ],
+  "attractions": [
+    {"id": 1, "name": "Senso-ji Temple", "type": "Temple", "address": "Asakusa, Tokyo", "lat": 35.7148, "lng": 139.7967, "rating": 4.6, "description": "Tokyo's oldest Buddhist temple"},
+    {"id": 2, "name": "Fushimi Inari Shrine", "type": "Shrine", "address": "Kyoto", "lat": 34.9671, "lng": 135.7727, "rating": 4.8, "description": "Famous for thousands of vermilion torii gates"},
+    {"id": 3, "name": "Mount Fuji", "type": "Nature", "address": "Fujinomiya, Shizuoka", "lat": 35.3606, "lng": 138.7274, "rating": 4.9, "description": "Japan's highest and most iconic mountain"},
+    {"id": 4, "name": "Osaka Castle", "type": "Castle", "address": "Osaka", "lat": 34.6873, "lng": 135.5262, "rating": 4.5, "description": "Historic castle with museum"},
+    {"id": 5, "name": "Arashiyama Bamboo Grove", "type": "Nature", "address": "Kyoto", "lat": 35.0094, "lng": 135.6728, "rating": 4.7, "description": "Stunning bamboo forest path"},
+    {"id": 6, "name": "Shibuya Crossing", "type": "Landmark", "address": "Shibuya, Tokyo", "lat": 35.6595, "lng": 139.7004, "rating": 4.4, "description": "World's busiest pedestrian crossing"}
+  ],
+  "hotels": [
+    {"id": 1, "name": "Park Hyatt Tokyo", "type": "Luxury", "address": "Shinjuku, Tokyo", "lat": 35.6854, "lng": 139.6917, "rating": 4.8, "price": "$$$$", "description": "Luxury hotel with city views"},
+    {"id": 2, "name": "Ryokan Yoshida-Sanso", "type": "Ryokan", "address": "Kyoto", "lat": 35.0267, "lng": 135.7944, "rating": 4.9, "price": "$$$", "description": "Traditional Japanese inn"},
+    {"id": 3, "name": "Capsule Hotel Anshin Oyado", "type": "Capsule", "address": "Tokyo Station", "lat": 35.6812, "lng": 139.7671, "rating": 4.2, "price": "$", "description": "Affordable capsule experience"},
+    {"id": 4, "name": "Hotel New Otani Osaka", "type": "Business", "address": "Osaka", "lat": 34.6719, "lng": 135.5028, "rating": 4.5, "price": "$$", "description": "Comfortable business hotel"}
+  ],
+  "phrases": [
+    {"japanese": "こんにちは", "romaji": "Konnichiwa", "english": "Hello"},
+    {"japanese": "ありがとう", "romaji": "Arigatou", "english": "Thank you"},
+    {"japanese": "すみません", "romaji": "Sumimasen", "english": "Excuse me / Sorry"},
+    {"japanese": "トイレはどこですか？", "romaji": "Toire wa doko desu ka?", "english": "Where is the toilet?"},
+    {"japanese": "これをお願いします", "romaji": "Kore o onegaishimasu", "english": "I'll have this please"},
+    {"japanese": "いくらですか？", "romaji": "Ikura desu ka?", "english": "How much is it?"},
+    {"japanese": "助けて！", "romaji": "Tasukete!", "english": "Help!"},
+    {"japanese": "駅はどこですか？", "romaji": "Eki wa doko desu ka?", "english": "Where is the station?"}
+  ],
+  "emergency": {
+    "police": "110",
+    "ambulance": "119",
+    "fire": "119",
+    "tourist_hotline": "03-3201-3331",
+    "embassy": "+81-3-3224-5000"
+  },
+  "tips": [
+    "Always carry cash - many places don't accept cards",
+    "Remove shoes when entering homes and some restaurants",
+    "Don't tip - it's not customary in Japan",
+    "Be quiet on public transportation",
+    "Learn basic Japanese phrases - locals appreciate it",
+    "Get a JR Pass for unlimited train travel",
+    "Download offline maps before traveling",
+    "Respect queue lines - Japanese people always queue"
+  ]
+}
